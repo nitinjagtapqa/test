@@ -19,5 +19,7 @@ public class BaseTest {
     public void quitDriver(){
         driver.quit();
         }
+    
+    System.out.println("Test Second user");
 
 }
