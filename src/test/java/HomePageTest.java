@@ -8,7 +8,7 @@ public class HomePageTest extends BaseTest {
     {
         driver.get("https:https://askomdch.com");
 
-
+        System.out.println(" test git");
 
     }
 }
