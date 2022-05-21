@@ -13,6 +13,8 @@ public class HomePageTest extends BaseTest {
         System.out.println(" test git");
         
         System.out.println("Pull requet to approve by qa");
+        
+         System.out.println("Pull requet to approve by qa 2");
 
     }
 }
