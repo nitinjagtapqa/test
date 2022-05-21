@@ -17,7 +17,11 @@ public class BaseTest {
     @AfterMethod
 
     public void quitDriver(){
+
         driver.quit();
+        System.out.println("Review pull request");
         }
+
+
 
 }
